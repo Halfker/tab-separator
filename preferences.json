@@ -1,0 +1,121 @@
+[
+  {
+    "property": "mod.tab_separator.style",
+    "label": "Separator line style",
+    "type": "dropdown",
+    "defaultValue": "solid",
+    "options": [
+      {
+        "label": "Solid",
+        "value": "solid"
+      },
+      {
+        "label": "Gradient (Faded Edges)",
+        "value": "gradient"
+      },
+      {
+        "label": "Dashed",
+        "value": "dashed"
+      },
+      {
+        "label": "Dotted",
+        "value": "dotted"
+      }
+    ]
+  },
+  {
+    "property": "mod.tab_separator.thickness",
+    "label": "Separator thickness (CSS length)",
+    "type": "string",
+    "defaultValue": "1px",
+    "placeholder": "e.g. 1px, 1.5px, 2px"
+  },
+  {
+    "property": "mod.tab_separator.width",
+    "label": "Separator width (percentage or CSS length)",
+    "type": "string",
+    "defaultValue": "86%",
+    "placeholder": "e.g. 86%, 100%, calc(100% - 16px)"
+  },
+  {
+    "property": "mod.tab_separator.opacity",
+    "label": "Separator opacity (0.0 to 1.0)",
+    "type": "string",
+    "defaultValue": "0.2",
+    "placeholder": "e.g. 0.15, 0.25, 0.5"
+  },
+  {
+    "property": "mod.tab_separator.color_mode",
+    "label": "Separator color mode",
+    "type": "dropdown",
+    "defaultValue": "adaptive",
+    "options": [
+      {
+        "label": "Theme Adaptive (Matches tab text color)",
+        "value": "adaptive"
+      },
+      {
+        "label": "Zen Theme Accent Color",
+        "value": "accent"
+      },
+      {
+        "label": "Native Toolbar Separator Color",
+        "value": "toolbar"
+      },
+      {
+        "label": "Custom Color (Uses custom color value below)",
+        "value": "custom"
+      }
+    ]
+  },
+  {
+    "property": "mod.tab_separator.custom_color",
+    "label": "Custom separator color (when Color Mode is Custom)",
+    "type": "string",
+    "defaultValue": "#888888",
+    "placeholder": "e.g. #ffffff, #3b82f6, rgb(255, 255, 255)"
+  },
+  {
+    "property": "mod.tab_separator.hide_around_active",
+    "label": "Hide separators around active or hovered tabs",
+    "type": "dropdown",
+    "defaultValue": "both",
+    "options": [
+      {
+        "label": "Hide around both active and hovered tabs",
+        "value": "both"
+      },
+      {
+        "label": "Hide around active/selected tab only",
+        "value": "active_only"
+      },
+      {
+        "label": "Hide around hovered tab only",
+        "value": "hover_only"
+      },
+      {
+        "label": "Never hide (always visible)",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "property": "mod.tab_separator.vertical_spacing",
+    "label": "Extra vertical spacing between tabs",
+    "type": "string",
+    "defaultValue": "0px",
+    "placeholder": "e.g. 0px, 2px, 4px"
+  },
+  {
+    "property": "mod.tab_separator.show_on_pinned",
+    "label": "Also show separators between vertical pinned tabs",
+    "type": "checkbox",
+    "defaultValue": false
+  },
+  {
+    "property": "mod.tab_separator.hide_in_collapsed",
+    "label": "Hide separators when sidebar is collapsed (icon-only mode)",
+    "type": "checkbox",
+    "defaultValue": false
+  }
+]

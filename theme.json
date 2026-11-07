@@ -1,0 +1,20 @@
+{
+  "id": "d4e8a912-6b3c-4f19-9a7e-2c8b5d0f3e1a",
+  "name": "Tab Separator",
+  "description": "Customizable visual divider lines between tabs in Zen Browser's vertical sidebar.",
+  "homepage": "https://github.com/Halfker/tab-seperator",
+  "style": "chrome.css",
+  "readme": "README.md",
+  "image": "image.png",
+  "preferences": "preferences.json",
+  "author": "Halfker",
+  "version": "1.0.0",
+  "tags": [
+    "tabs",
+    "sidebar",
+    "separator",
+    "ui"
+  ],
+  "createdAt": "2026-11-06",
+  "updatedAt": "2026-11-06"
+}
