@@ -5,7 +5,7 @@
   "homepage": "https://github.com/Halfker/tab-seperator",
   "style": "chrome.css",
   "readme": "README.md",
-  "image": "image.png",
+  "image": "img/img1.png",
   "preferences": "preferences.json",
   "author": "Halfker",
   "version": "1.0.0",
