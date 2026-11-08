@@ -58,7 +58,7 @@ Configurable in **Settings → Zen Mods → Tab Separator**:
 If you use [Sine](https://github.com/CosmoCreeper/Sine) mod manager:
 
 1. Open **Settings → Sine** in Zen Browser.
-2. Paste `Halfker/tab-seperator` into the custom mod input (or search for **Tab Separator** if available in the store) and click **Install**.
+2. Paste `Halfker/tab-separator` into the custom mod input (or search for **Tab Separator** if available in the store) and click **Install**.
 3. Configure options directly from the mod's settings panel.
 
 ---
@@ -85,7 +85,7 @@ If you use [Sine](https://github.com/CosmoCreeper/Sine) mod manager:
        "id": "d4e8a912-6b3c-4f19-9a7e-2c8b5d0f3e1a",
        "name": "Tab Separator",
        "description": "Customizable visual divider lines between tabs in Zen Browser's vertical sidebar.",
-       "homepage": "https://github.com/Halfker/tab-seperator",
+       "homepage": "https://github.com/Halfker/tab-separator",
        "style": "chrome://zen-themes/d4e8a912-6b3c-4f19-9a7e-2c8b5d0f3e1a/chrome.css",
        "readme": "chrome://zen-themes/d4e8a912-6b3c-4f19-9a7e-2c8b5d0f3e1a/readme.md",
        "image": "img/img1.png",
