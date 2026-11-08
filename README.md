@@ -1,15 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <a href="https://zen-browser.app/">
-    <img src="https://github.com/zen-browser.png" alt="Zen Browser Logo" width="64" height="64" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/CosmoCreeper/Sine">
-    <img src="https://github.com/sineorg.png" alt="Sine Logo" width="64" height="64" />
-  </a>
-</p>
-
 # Tab Separator for Zen Browser
 
 Customizable visual divider lines between vertical sidebar tabs in [Zen Browser](https://zen-browser.app/).
