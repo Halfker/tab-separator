@@ -1,10 +1,21 @@
 <div align="center">
 
+<p align="center">
+  <a href="https://zen-browser.app/">
+    <img src="https://github.com/zen-browser.png" alt="Zen Browser Logo" width="64" height="64" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/CosmoCreeper/Sine">
+    <img src="https://github.com/sineorg.png" alt="Sine Logo" width="64" height="64" />
+  </a>
+</p>
+
 # Tab Separator for Zen Browser
 
 Customizable visual divider lines between vertical sidebar tabs in [Zen Browser](https://zen-browser.app/).
 
-[![Zen Browser Mod](https://img.shields.io/badge/Zen_Browser-Mod-4f6ef7?style=flat-square)](https://zen-browser.app/mods)
+[![Zen Browser Mod](https://img.shields.io/badge/Zen_Browser-Mod-F76F53?style=flat-square&logo=zenbrowser&logoColor=white)](https://zen-browser.app/mods)
+[![Sine Compatible](https://img.shields.io/badge/Sine-Compatible-8b5cf6?style=flat-square)](https://github.com/CosmoCreeper/Sine)
 [![Version](https://img.shields.io/badge/version-1.0.0-success?style=flat-square)](theme.json)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
