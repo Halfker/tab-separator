@@ -15,6 +15,9 @@
     "separator",
     "ui"
   ],
+  "fork": [
+    "zen"
+  ],
   "createdAt": "2026-11-06",
-  "updatedAt": "2026-11-06"
+  "updatedAt": "2026-11-08"
 }
