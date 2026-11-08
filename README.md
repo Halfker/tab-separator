@@ -53,7 +53,17 @@ Configurable in **Settings → Zen Mods → Tab Separator**:
 
 ## Installation
 
-### Method 1: Manual Installation (With Settings GUI)
+### Method 1: Install via Sine (Recommended)
+
+If you use [Sine](https://github.com/CosmoCreeper/Sine) mod manager:
+
+1. Open **Settings → Sine** in Zen Browser.
+2. Paste `Halfker/tab-seperator` into the custom mod input (or search for **Tab Separator** if available in the store) and click **Install**.
+3. Configure options directly from the mod's settings panel.
+
+---
+
+### Method 2: Manual Installation (With Settings GUI)
 
 1. Find your Zen profile directory:
    - In Zen Browser, open `about:support`.
@@ -78,13 +88,13 @@ Configurable in **Settings → Zen Mods → Tab Separator**:
        "homepage": "https://github.com/Halfker/tab-seperator",
        "style": "chrome://zen-themes/d4e8a912-6b3c-4f19-9a7e-2c8b5d0f3e1a/chrome.css",
        "readme": "chrome://zen-themes/d4e8a912-6b3c-4f19-9a7e-2c8b5d0f3e1a/readme.md",
-       "image": "image.png",
+       "image": "img/img1.png",
        "preferences": "preferences.json",
        "author": "Halfker",
        "version": "1.0.0",
        "tags": ["tabs", "sidebar", "separator", "ui"],
        "createdAt": "2026-11-06",
-       "updatedAt": "2026-11-06",
+       "updatedAt": "2026-11-08",
        "enabled": true
      }
    }
@@ -99,7 +109,7 @@ Configurable in **Settings → Zen Mods → Tab Separator**:
 
 ---
 
-### Method 2: Quick Setup via `userChrome.css`
+### Method 3: Quick Setup via `userChrome.css`
 
 1. Open `about:support` in Zen Browser and open your **Profile Folder**.
 2. Inside the `chrome` folder, copy `chrome.css` as `userChrome.css` (or add `@import url("chrome.css");` inside your existing `userChrome.css`).
